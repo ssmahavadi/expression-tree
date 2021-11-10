@@ -6,4 +6,4 @@ The program itself creates an expression tree that converts expressions from pre
 
 The program is written entirely in C++. Some of the fundamental concepts of programming that are implemented in the program inlclude pointers, switch case, try and catch errors, object-oriented programming (classes, objects, encapsulation, abstraction, etc), and more. For a more detailed explanation of the utilization of such concepts in the program, you can read my [internal assessment] (); the paper will also reveal my creative process in completing this program.
 
-Click [here] (https://drive.google.com/file/d/1pBccSOYIulVB6OvmHARZygrg99SNS1vO/view?usp=sharing) to watch a video demonstrating the program's functions.
+Click [here] (drive.google.com/file/d/1pBccSOYIulVB6OvmHARZygrg99SNS1vO/view?usp=sharing) to watch a video demonstrating the program's functions.
