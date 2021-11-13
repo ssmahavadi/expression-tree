@@ -1,6 +1,6 @@
 # Expression Tree
 
-This project was completed as my IB Computer Science HL internal assessment during my senior year of high school. The project was completed over a period of nearly four months, spanning from mid-October of 2020 to early January of 2021.
+This project was completed as my IB Computer Science HL internal assessment; it was completed over a period of nearly four months, spanning from mid-October of 2020 to early January of 2021.
 
 The program itself creates an expression tree that converts expressions from prefix to infix notation and accurately evaluates them.
 
