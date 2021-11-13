@@ -6,4 +6,4 @@ The program itself creates an 'expression tree' that converts expressions from p
 
 The program is written entirely in C++. Some of the fundamental concepts of programming that are implemented in the program inlclude pointers, switch case, try and catch errors, object-oriented programming (classes, objects, encapsulation, abstraction, etc), and more. For a more detailed explanation of the utilization of such concepts in the program, you can read my internal assessment (https://bit.ly/etree-ia); the paper will also reveal my creative process in completing this program.
 
-Here's the link to a video demonstrating the program's functions: https://bit.ly/etree-video
+Here's the link to a video demonstrating the program's functions: https://bit.ly/etree-video.
